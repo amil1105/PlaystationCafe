@@ -46,7 +46,7 @@ namespace PlaystationCafe
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmIsmi());
+            Application.Run(new frmKullanici());
 
 
 
